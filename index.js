@@ -62,7 +62,7 @@ Client.on("messageCreate", message => {
     
 });
 
-Client.login("OTc5Nzg4MTY4MjA1MzAzODQ4.G_MBTr.DAe2ZXqIo4ELfnGmnY6LFH65krFGZOKa1s0hxQ")
+Client.login("YOUR TOKEN HERE")
 
 
 
